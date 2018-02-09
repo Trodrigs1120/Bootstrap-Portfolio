@@ -1,0 +1,19 @@
+Body{
+    background-image: url("../images/background.jpg");
+}
+.navbar-fixed-bottom{
+    border-top: solid teal 5px;
+    background: grey;
+    color: white;
+    padding: 10px;
+}
+
+ /* .navbar-fixed-bottom {
+
+} */ */
+/* Body{
+    padding: 70px;
+} */
+/* .panel-heading{
+    color: teal;
+} */
